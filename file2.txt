@@ -1,1 +1,6 @@
 Nowy plik - ver 0.1
+
+Poprawka 0.2 fix
+
+Zmiana dodatkowa 0.3
+
