@@ -2,4 +2,5 @@
 
 Test file README
 
-New branch 0.1
+Zmiany w wersji dev 0.1 
+
