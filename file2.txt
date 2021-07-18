@@ -4,3 +4,7 @@ Poprawka 0.2 fix
 
 Zmiana dodatkowa 0.3
 
+Zmiana 0.4
+
+
+
